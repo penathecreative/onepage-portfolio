@@ -171,14 +171,14 @@ html {
 
 .about-images img {
   width: 100%;
-  max-width: 400px; /* Adjust to fit your cropped image */
+  max-width: 400px;
   height: auto;
-  border-radius: 50%; /* Optional for a softer look */
+  border-radius: 50%;
   -o-object-fit: cover;
   object-fit: cover;
-  border: 4px solid #fff; /* Optional */
+  border: 4px solid #fff;
   -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Responsive adjustments */
